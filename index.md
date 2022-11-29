@@ -18,7 +18,7 @@ instructor: ["Toby Hodges", "Aleksandra Nenadic", "Sarah Stevens"] # boxed, comm
 helper: ["Erin Becker"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth 
 Lichterman"]
 email: ["tobyhodges@carpentries.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://codimd.carpentries.org/2022-12-05-collaborative-lesson-development-training? # optional: URL 
+collaborative_notes: "https://codimd.carpentries.org/2022-12-05-collaborative-lesson-development-training" # optional: URL 
 for the workshop 
 collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -116,10 +116,6 @@ or another training covering similar topics, e.g. an RStudio Instructor.
 
 This training will take place virtually, combining video and screen sharing on Zoom
 with a collaborative notetaking document for sharing notes, responses to exercises, and links to further resources.
-The first pilot will take place [13-16 June](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1&iso=20220613T12&p1=1440&ah=4) and [27&28 July 2022 (12:00-16:00 UTC)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1%2C+pt2+&iso=20220727T12&p1=%3A&ah=4).
-
-There is no fee to join the pilot, but spaces are limited.
-To apply to participate in the training, please fill out this short form: <https://forms.gle/9ZXZEjgJGWNQmxY47>
 
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
